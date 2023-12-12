@@ -12,7 +12,11 @@ Welcome to the Behave-Selenium-Pytest-Allure BDD Automation Framework repository
 
 - **Allure Report:** The framework generates detailed and visually appealing test reports using Allure. These reports provide a comprehensive overview of test results, making it simple to pinpoint issues and track test execution progress over time.
 
-## Key Components
+- **PyCharm:** The framework is compatible with PyCharm, a popular integrated development environment (IDE) for Python. PyCharm provides a powerful and user-friendly interface for developing and debugging automation scripts.
+
+- **Paramiko:** Paramiko is included for SSH protocol implementation, allowing you to perform secure file transfer and remote command execution on remote machines. This is useful for scenarios such as setting up test environments or interacting with remote servers.
+
+## Other Key Components
 
 - **Feature Files:** Write test scenarios using Gherkin syntax in feature files. These files serve as a common language bridge between stakeholders and the automation team.
 
@@ -26,7 +30,7 @@ Welcome to the Behave-Selenium-Pytest-Allure BDD Automation Framework repository
 
 ## Getting Started
 
-Clone this repository and follow the detailed documentation in the README to set up your environment and run your first BDD tests using Behave, Selenium, Pytest, and Allure.
+Clone this repository and follow the detailed documentation in the README to set up your environment and run your first BDD tests using Behave, Selenium, Pytest, Allure, PyCharm, and Paramiko.
 
 ## Contributions
 
